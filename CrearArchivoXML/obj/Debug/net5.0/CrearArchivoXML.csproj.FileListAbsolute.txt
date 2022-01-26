@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\CrearArchivoXML.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\CrearArchivoXML.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\CrearArchivoXML.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\CrearArchivoXML.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\CrearArchivoXML.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\ref\CrearArchivoXML.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\bin\Debug\net5.0\CrearArchivoXML.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\ref\CrearArchivoXML.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Crear archivo XML Net Core\CrearArchivoXML\CrearArchivoXML\obj\Debug\net5.0\CrearArchivoXML.genruntimeconfig.cache
